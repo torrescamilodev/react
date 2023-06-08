@@ -10,6 +10,8 @@
 
 &nbsp;
 
+------------
+
 <h3 style ="color: purple;">Comandos</h3>
 
 Versión de Node:
