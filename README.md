@@ -3,6 +3,7 @@
 &nbsp;
 
 <h2 style ="color: cyan;">Configuración del entorno</h2>
+
 ***Node:*** Para utilizar su gestor de dedependencias `npm` que nos permitira instalar las liberias.
 
 &nbsp;
